@@ -1,0 +1,7 @@
+train: /content/Fruits_Dataset/images/train
+val: /content/Fruits_Dataset/images/val
+test: /content/Fruits_Dataset/images/test
+
+nc: 2
+names: ['apple', 'banana']
+task: segment
